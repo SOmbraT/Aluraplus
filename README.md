@@ -1,5 +1,4 @@
 <h1 align="center">Alura Plus</h1>
-[Alura Plus Logo](https://pasteboard.co/LS0h3Wjk3dsI.png)
 
 ## Descrição do projeto 
 
