@@ -3,7 +3,7 @@
 
 ## Descrição do projeto 
 
-<p aling="justify>
+<p aling="justify">
 Projeto do curso de HTML e CSS: praticando HTML/CSS da Alura. O Alura+ é um site de promoção do plano Alura+ com AluraLingua, monstrando os benéficios de se adiquirir esse pacote.
 </p>
 
