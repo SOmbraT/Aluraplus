@@ -15,3 +15,9 @@ Projeto do curso de HTML e CSS: praticando HTML/CSS da Alura. O Alura+ é um sit
 
 - ``HTML 5`
 - ``CSS 3`
+
+## Como visualizar o projeto
+
+<p aling="justify">
+Basta acessar o link https://sombrat.github.io/Aluraplus/ e você pode visualizar o projeto.
+</p>
